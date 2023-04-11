@@ -1,6 +1,8 @@
 # flutter_dashboard_sarang
 
-git clone https://github.com/kksarang/flutter_dashboard_sarang,
+step 1) git clone https://github.com/kksarang/flutter_dashboard_sarang,
+step 2) open the project ide
+then run this keywords
 flutter pub get,
 flutter run,
 
